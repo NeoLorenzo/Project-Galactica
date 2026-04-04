@@ -1,0 +1,50 @@
+# Alternative Biochemistry & Non-Terrestrial Habitats
+
+### 1. The Core Philosophy: Moving Beyond Earth-Centric Bias
+In *Project Galáctica*, we adhere to the astrobiological principle that the "Habitable Zone" is not solely defined by the presence of liquid water. Life requires a solvent to facilitate chemical reactions, transport nutrients, and provide a stable medium for molecular assembly. By expanding our definition of viable solvents, we exponentially increase the types of worlds capable of supporting intelligent life within the galaxy.
+
+### 2. The Criteria for Biological Solvents
+For a liquid to support life in our game universe, it must meet three scientific criteria:
+1.  **Solubility:** It must dissolve complex molecules to allow chemical interactions.
+2.  **Stability:** It must not aggressively destroy organic or synthetic building blocks.
+3.  **Thermal Range:** It must remain liquid over a wide enough temperature spectrum to allow biological evolution before freezing or boiling.
+
+### 3. Officially Recognized Solvents & Planet Classes
+
+#### **Solvent Alpha: Ammonia (NH3)**
+* **Planet Class:** Cryo-Jovian Moons, Tundra Worlds.
+* **Temperature Range:** -77°C to -33°C.
+* **The Science:** Ammonia is highly polar, making it an excellent solvent that rivals water. It allows for complex acid-base chemistry. Because it is less viscous than water, it offsets the slow molecular movement caused by extreme cold.
+* **Biological Traits:** Life forms will possess slower, highly efficient metabolisms. They may utilize alkali metals instead of iron for oxygen transport.
+* **In-Game Implications:** Ammonia-based life cannot survive on standard Earth-like worlds (they would literally melt/combust). Colonizing these planets requires specialized Cryo-Habitats.
+
+#### **Solvent Beta: Liquid Methane / Ethane (CH4 / C2H6)**
+* **Planet Class:** Ultra-Frigid, Titan-like Worlds.
+* **Temperature Range:** -182°C to -161°C.
+* **The Science:** Unlike water, methane is non-polar. Cell membranes in this environment (Azotosomes) function "inside out" compared to Earth life, thriving in liquid hydrocarbon lakes. 
+* **Biological Traits:** "Cryo-life." Chemical reactions at these temperatures are agonizingly slow. These species might possess incredibly long lifespans, experiencing time and technological progression at a fraction of the speed of water-based life.
+* **In-Game Implications:** Excellent source of late-game ancient civilizations. Their planets are rich in hydrocarbons (fuel), making them highly contested resource hubs, but their native populations will be nearly impossible to communicate with due to time-perception differences.
+
+#### **Solvent Gamma: Sulfuric Acid (H2SO4)**
+* **Planet Class:** Caustic, High-Pressure Hothouses (Venusian Worlds).
+* **Temperature Range:** 10°C up to 337°C (highly dependent on atmospheric pressure).
+* **The Science:** Sulfuric acid is a polar solvent that remains liquid at incredibly high temperatures. Earth biology would dissolve instantly, but silicon-based life or extremophiles using wax/complex hydrocarbon polymers could thrive.
+* **Biological Traits:** Extremely robust, heavy-gravity beings. Highly resistant to physical trauma, radiation, and heat. 
+* **In-Game Implications:** Magma/Acid worlds are hostile to nearly all other species. Sulfuric lifeforms make excellent frontline troops or heavy-industrial workers. Their colonization tech revolves around pressure-vessels and heat-sinks rather than standard life support.
+
+#### **Solvent Delta: Formamide (CH3NO)**
+* **Planet Class:** Scorched Desert Worlds, tidally locked planets.
+* **Temperature Range:** 2°C to 210°C.
+* **The Science:** Formamide is a rugged solvent that rarely freezes and takes immense energy to boil. It dissolves both polar and non-polar molecules and acts as a biological stabilizer.
+* **Biological Traits:** Highly adaptable to extreme environmental shifts. These lifeforms survive brutal day/night cycles or eccentric orbits that would sterilize other planets. 
+* **In-Game Implications:** Planets with Formamide oceans are highly resilient against orbital bombardment or climate-altering superweapons. The native species will have a massive tactical advantage in adaptability and rapid colonization of marginal worlds.
+
+#### **Solvent Epsilon: Supercritical Carbon Dioxide (CO2)**
+* **Planet Class:** Deep Subterranean / High-Gravity Gas Giant cores.
+* **Temperature/Pressure:** Requires high pressure (73+ atm) and moderate temperatures (31°C+).
+* **The Science:** When CO2 is put under immense pressure, it enters a "supercritical" state where it acts as both a gas and a liquid. It becomes a remarkable solvent for organic compounds.
+* **Biological Traits:** Life exists entirely underground or in the crushing depths of gas giants. They are sightless, relying on seismics or pressure-waves.
+* **In-Game Implications:** Unlocks the ability to build infrastructure *inside* gas giants or harvest core materials without destroying the crust. 
+
+### 4. Design Note: The Tech Tree
+To balance the MVP, all player factions will start with a mastery of their native solvent. Expanding into different biomes requires dedicated research into "Alternative Biochemistry Habitats" to prevent rapid, unchecked early-game expansion.
